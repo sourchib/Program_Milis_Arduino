@@ -1,2 +1,2 @@
 # Program_Milis_Arduino
-Basic 
+Basic millis arduino program realtime.
